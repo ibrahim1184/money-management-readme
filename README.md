@@ -37,9 +37,9 @@ Firebase tabanlı, kişisel bütçenizi yönetebileceğiniz ve finansal sağlı�
 <div align="center">
   <table>
     <tr>
-      <td><img src="assets/screens/login.jpeg" width="200" alt="Giriş Ekranı"></td>
-      <td><img src="assets/screens/register.jpeg" width="200" alt="Kayıt Ekranı"></td>
-      <td><img src="assets/screens/password_reset.jpeg" width="200" alt="Şifre Sıfırlama"></td>
+      <td><img src="/screens/login.jpeg" width="200" alt="Giriş Ekranı"></td>
+      <td><img src="/screens/register.jpeg" width="200" alt="Kayıt Ekranı"></td>
+      <td><img src="/screens/password_reset.jpeg" width="200" alt="Şifre Sıfırlama"></td>
     </tr>
     <tr>
       <td><i>Giriş Yap</i></td>
@@ -50,9 +50,9 @@ Firebase tabanlı, kişisel bütçenizi yönetebileceğiniz ve finansal sağlı�
 
   <table>
     <tr>
-      <td><img src="assets/screens/homepage.jpeg" width="200" alt="Ana Sayfa"></td>
-      <td><img src="assets/screens/transaction_history.jpeg" width="200" alt="İşlem Geçmişi"></td>
-      <td><img src="assets/screens/stats.jpeg" width="200" alt="İstatistikler"></td>
+      <td><img src="/screens/homepage.jpeg" width="200" alt="Ana Sayfa"></td>
+      <td><img src="/screens/transaction_history.jpeg" width="200" alt="İşlem Geçmişi"></td>
+      <td><img src="/screens/stats.jpeg" width="200" alt="İstatistikler"></td>
     </tr>
     <tr>
       <td><i>Bakiye Özeti</i></td>
@@ -63,9 +63,9 @@ Firebase tabanlı, kişisel bütçenizi yönetebileceğiniz ve finansal sağlı�
 
   <table>
     <tr>
-      <td><img src="assets/screens/add_transaction.jpeg" width="200" alt="İşlem Ekleme"></td>
-      <td><img src="assets/screens/date_picker.jpeg" width="200" alt="Tarih Seçici"></td>
-      <td><img src="assets/screens/profile.jpeg" width="200" alt="Profil"></td>
+      <td><img src="/screens/add_transaction.jpeg" width="200" alt="İşlem Ekleme"></td>
+      <td><img src="/screens/date_picker.jpeg" width="200" alt="Tarih Seçici"></td>
+      <td><img src="/screens/profile.jpeg" width="200" alt="Profil"></td>
     </tr>
     <tr>
       <td><i>Yeni İşlem</i></td>
