@@ -1,3 +1,6 @@
+> 📱 Bu proje aktif olarak geliştirilmektedir. Aşağıda sadece tanıtım bilgileri yer almaktadır. Kodlar private bir repoda tutulmaktadır.
+
+
 # 💰 BütçeTakip - Akıllı Finans Yönetimi
 
 Firebase tabanlı, kişisel bütçenizi yönetebileceğiniz ve finansal sağlığınızı takip edebileceğiniz kapsamlı mobil uygulama.
