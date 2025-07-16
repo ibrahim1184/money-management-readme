@@ -1,4 +1,4 @@
-> 📱 Bu proje aktif olarak geliştirilmektedir. Aşağıda sadece tanıtım bilgileri yer almaktadır. Kodlar private bir repoda tutulmaktadır.
+ 📱 Bu proje aktif olarak geliştirilmektedir. Aşağıda sadece tanıtım bilgileri yer almaktadır. Kodlar private bir repoda tutulmaktadır.
 
 
 # 💰 BütçeTakip - Akıllı Finans Yönetimi
